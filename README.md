@@ -1,6 +1,6 @@
 
 # 🧩 Práctica: Colaboración con Pull Request y manejo de ramas  
-**Repositorio:** `PullRequestEntornos1DAW-2025-2026`
+**Repositorio:** `PullRequestDespliegue2DAW-2025-2026`
 
 ---
 
